@@ -1,4 +1,4 @@
-module github.com/Code-Concept-io/sse
+module github.com/Code-Concept-io/sse/v2
 
 go 1.13
 
